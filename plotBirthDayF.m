@@ -1,4 +1,4 @@
-function plotBirthdayF(handles)
+    function plotBirthdayF(handles)
 
 Nmax=str2double(handles.NmaxEditText.String);
 Npeople=[2:Nmax];
